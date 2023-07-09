@@ -61,7 +61,9 @@
 # Write a Python program that asks the user for a sentence and prints the longest word in the sentence
 def cel_mai_lung_cuvant_din_propozitie():
     input_text = input("Scrie aici propozitia ta: ").split(" ")
-    print(input_text)
+    
+
+
 cel_mai_lung_cuvant_din_propozitie()
 
 # Ex.8
